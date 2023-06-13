@@ -354,8 +354,8 @@ export function Settings() {
               </div>
             </Popover>
           </ListItem>
-
-          {/* <ListItem
+{/* 
+          <ListItem
             title={Locale.Settings.Update.Version(currentVersion ?? "unknown")}
             subTitle={
               checkingUpdate
